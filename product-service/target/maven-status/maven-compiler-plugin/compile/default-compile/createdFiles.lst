@@ -1,0 +1,10 @@
+com\serg\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\serg\productservice\model\Product.class
+com\serg\productservice\service\ProductService.class
+com\serg\productservice\controller\ProductController.class
+com\serg\productservice\dto\ProductRequest.class
+com\serg\productservice\model\Product$ProductBuilder.class
+com\serg\productservice\repository\ProductRepository.class
+com\serg\productservice\dto\ProductResponse.class
+com\serg\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\serg\productservice\ProductServiceApplication.class

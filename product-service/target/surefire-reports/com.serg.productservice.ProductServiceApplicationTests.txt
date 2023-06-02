@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.serg.productservice.ProductServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.665 s <<< FAILURE! - in com.serg.productservice.ProductServiceApplicationTests
+com.serg.productservice.ProductServiceApplicationTests  Time elapsed: 0.663 s  <<< ERROR!
+java.lang.IllegalStateException: Could not find a valid Docker environment. Please see logs and check configuration
+
